@@ -15,6 +15,7 @@
 # Please submit bugfixes or comments via https://bugs.opensuse.org/
 #
 # icecream 0
+# build-in-place
 
 
 #Compat macro for new _fillupdir macro introduced in Nov 2017
